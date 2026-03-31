@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "You To You",
+  "base_artist": "ASIAN KUNG-FU GENERATION、ROTH BART BARON",
+  "createdAt": "2026-03-31T09:39:31.229324Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Fuck You to You",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/01_My_Fuck_You_to_You_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You To You",
+      "artist": "ASIAN KUNG-FU GENERATION feat. ROTH BART BARON",
+      "has_synced": true,
+      "path": "select/02_You_To_You_ASIAN_KUNG-FU_GENERATION_feat._ROTH_BART_BARON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You To You",
+      "artist": "ASIAN KUNG-FU GENERATION, ROTH BART BARON",
+      "has_synced": true,
+      "path": "select/03_You_To_You_ASIAN_KUNG-FU_GENERATION,_ROTH_BART_BARON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You to You",
+      "artist": "Maisie Peters",
+      "has_synced": true,
+      "path": "select/04_You_to_You_Maisie_Peters.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You To You (ft. ROTH BART BARON)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_You_To_You_(ft._ROTH_BART_BARON)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You To You",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/06_You_To_You_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "To. You (To. You)",
+      "artist": "Dreamcatcher",
+      "has_synced": true,
+      "path": "select/07_To._You_(To._You)_Dreamcatcher.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You to You",
+      "artist": "Maisie Peters",
+      "has_synced": true,
+      "path": "select/08_You_to_You_Maisie_Peters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "for you, to you",
+      "artist": "Josua Natanael",
+      "has_synced": true,
+      "path": "select/09_for_you,_to_you_Josua_Natanael.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Johnny Come Down To Hilo",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/10_Johnny_Come_Down_To_Hilo_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Off To Sea",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/11_Off_To_Sea_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Toss a Coin to Your Witcher (From \"the Witcher Series\")",
+      "artist": "Peter Hollens",
+      "has_synced": true,
+      "path": "select/12_Toss_a_Coin_to_Your_Witcher_(From__the_Witcher_Series_)_Peter_Hollens.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All Night To Figure It Out",
+      "artist": "Jade Eagleson",
+      "has_synced": true,
+      "path": "select/13_All_Night_To_Figure_It_Out_Jade_Eagleson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Back to Beautiful",
+      "artist": "Sofia Carson feat. Alan Walker",
+      "has_synced": true,
+      "path": "select/14_Back_to_Beautiful_Sofia_Carson_feat._Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Back to Beautiful",
+      "artist": "Sofia Carson;Alan Walker",
+      "has_synced": true,
+      "path": "select/15_Back_to_Beautiful_Sofia_Carson;Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Born to Be Wild",
+      "artist": "Steppenwolf",
+      "has_synced": true,
+      "path": "select/16_Born_to_Be_Wild_Steppenwolf.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Close to Me",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/17_Close_to_Me_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Don't Stand So Close To Me",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/18_Don't_Stand_So_Close_To_Me_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Down To One",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/19_Down_To_One_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Hard To Love",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/20_Hard_To_Love_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "How To Talk To Girls",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/21_How_To_Talk_To_Girls_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I Should Probably Go To Bed",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/22_I_Should_Probably_Go_To_Bed_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I Want To Break Free",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/23_I_Want_To_Break_Free_Queen.lrc"
+    }
+  ]
+}
